@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on an Open Source Product @ ClusterSense
+- 🌱 I’m currently learning React paired with NextJS
+- 👯 I’m looking to collaborate on any Open Source Projects!
+- 💬 Ask me about tech, kickboxing, and your favorite New York Restaurants!
+- 📫 How to reach me: jungtaelee0128@gmail.com
+- 😄 Pronouns: He/Him
 <!--
 **jungtaelee0128/jungtaelee0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
