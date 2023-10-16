@@ -2,6 +2,7 @@
 - 🔭 I’m currently working on an Open Source Product @ ClusterSense
 - 🌱 I’m currently learning React paired with NextJS
 - 👯 I’m looking to collaborate on any Open Source Projects!
+- 👨‍🏫 Just gave a tech talk on Message Brokers (Kafka / RabbitMQ)
 - 💬 Ask me about tech, kickboxing, and your favorite New York Restaurants!
 - 📫 How to reach me: jungtaelee0128@gmail.com
 - 😄 Pronouns: He/Him
