@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently iterating on an Open Source Product @ ClusterSense
-- 🌱 I’m currently harnessing the power of React with NextJS
+- 🌱 I’m currently learning Machine Learning Algorithm
 - 👯 I’m looking to collaborate on any Open Source Projects!
 - 👨‍🏫 Just gave a tech talk on Message Brokers (Kafka / RabbitMQ)
 - 💬 Ask me about tech, kickboxing, and your favorite New York Restaurants!
