@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently iterating on an Open Source Product @ ClusterSense
+- 🔭 I’m currently iterating on an Open Source Product @ OSLabs
 - 🌱 I’m currently learning Machine Learning Algorithm
 - 👯 I’m looking to collaborate on any Open Source Projects!
 - 👨‍🏫 Just gave a tech talk on Message Brokers (Kafka / RabbitMQ)
